@@ -1,0 +1,29 @@
+header {
+    background-color: #e8c5f8;
+    color:#865f9c;
+    padding: 15px;
+    text-align: center;
+}
+
+nav li{
+  display: inline; 
+  margin-right: 15%;
+}
+nav ul{
+    list-style-type: none;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(252, 142, 160);
+}
+
+section{
+    margin-bottom: 5%;
+}
+footer{
+    background-color: #e8c5f8;
+    color: #865f9c;
+    text-align: center;
+    padding: 5%;
+}
