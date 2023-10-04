@@ -4,7 +4,10 @@ header {
     padding: 15px;
     text-align: center;
 }
-
+body{
+    background-color:  #f7bfe0;
+    ;
+}
 nav li{
   display: inline; 
   margin-right: 15%;
@@ -15,7 +18,7 @@ nav ul{
 
 nav a{
     text-decoration: none;
-    color: rgb(252, 142, 160);
+    color: rgb(96, 39, 150);
 }
 
 section{
@@ -26,4 +29,17 @@ footer{
     color: #865f9c;
     text-align: center;
     padding: 5%;
+}
+
+h1{
+   font-size: 300%;
+   text-align: center;
+}
+h2{
+    font-size: 200%;
+    text-align: center;
+}
+p{
+    font-size: 100%;
+    text-align: center;
 }
